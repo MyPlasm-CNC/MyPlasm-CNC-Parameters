@@ -10,3 +10,5 @@ HT45, HT65, HT105, FineCuts and 45-105 came from https://www.candcnc.net/downloa
 There is minimal difference between Metric and Imperial other than the kerf width in the file description has been converted and the cut height is 25mm and 1" respectively. MyPlasm stores all parameter files as metric and converts them within the program.
 
 To Download, click the Code button, then Download Zip.
+
+Extract the parameter files you need and copy the extracted parameter files into C:\Program Files (x86)\MyPlasmCNC\store
